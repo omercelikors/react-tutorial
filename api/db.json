@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Mustafa Murat",
+      "salary": "5000",
+      "department": "Yazılım",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Kemallettin Taslak",
+      "salary": "4000",
+      "department": "Pazarlama"
+    },
+    {
+      "name": "Mehmet Biricik",
+      "salary": "6000",
+      "department": "Pazarlama",
+      "id": 3
+    },
+    {
+      "name": "Zeynep Kaynak",
+      "salary": "4000",
+      "department": "İnsan Kaynakları",
+      "id": 4
+    }
+  ]
+}
